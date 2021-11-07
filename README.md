@@ -1,5 +1,4 @@
-<p align=center>
+<p align="center">
 
-[![laube's 42 stats](https://badge42.herokuapp.com/api/stats/laube?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-
+[![laube's 42 stats](https://badge42.herokuapp.com/api/stats/laube?privacyEmail=true&)](https://github.com/JaeSeoKim/badge42)
 </p>
