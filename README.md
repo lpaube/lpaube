@@ -1,4 +1,4 @@
-## My other Projects
+## My other projects
 
 ### <img src="https://github.com/lpaube/lpaube/blob/main/PocketCellsiosIcon.png" width="25"> Pocket Cells 
 <table>
